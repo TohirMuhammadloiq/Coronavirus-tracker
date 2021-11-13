@@ -49,6 +49,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CoronavirusTrackerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="coronavirus-tracker" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="io.javabrains.coronavirustracker.CoronavirusTrackerApplication" />
@@ -85,7 +96,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582863309026</updated>
-      <workItem from="1636795328577" duration="999000" />
+      <workItem from="1636795328577" duration="1279000" />
     </task>
     <servers />
   </component>
